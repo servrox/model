@@ -37,7 +37,7 @@
   },
   "schematics": "./schematics/collection.json",
   "peerDependencies": {
-    "@angular/core": "^8.0.0",
+    "@angular/core": "^10.0.0",
     "@angular/cli": "^8.0.0",
     "rxjs": "^6.4.0",
     "typescript": "^3.4.0"
@@ -47,7 +47,7 @@
     "@angular-devkit/schematics": "^8.0.0",
     "@angular/compiler": "^8.0.0",
     "@angular/compiler-cli": "^8.0.0",
-    "@angular/core": "^8.0.0",
+    "@angular/core": "^10.0.0",
     "@schematics/angular": "^8.0.0",
     "@types/mocha": "^5.2.0",
     "@types/node": "^10.0.0",
